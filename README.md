@@ -23,3 +23,7 @@
   -  P lies on the altitude from P₂ ⟺ v₂ ⋅ (v₁-v₃) = 0 ⟺ v₁⋅v₂ - v₂v₃ = 0 ⟺ v₁⋅v₂ = v₂v₃
 
 **c)** v₁v₃ = v₂v₃ ⟺ v₁v₃ - v₂v₃ = 0 ⟺ v₃ ⋅ (v₁-v₂) ⟺ P lies on the altitude from P₃
+
+## Problem 3
+
+The tetrahedron has rotational symmetry in 3 dimensions, so the vectors must also have rotational symmetry in 3 dimensions. Any symmetrical set of vectors sums to 0.
