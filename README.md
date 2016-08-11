@@ -75,3 +75,13 @@ sin(-θ) = -sin(θ),  cos(-θ) = cos(θ). Rotation by -x is rotation in the oppo
 	√(1-1/√2)  1              -√(1+1/√2)  1              √(1+1/√2)  -1             -√(1-1/√2)  -1
 
 **e)**
+
+## Problem 5
+
+**a)** The amount of each ingredient required to make all of the pastries.
+
+**b)** N⋅M⋅X
+
+**c)** *No access to MATLAB*
+
+**d)**
